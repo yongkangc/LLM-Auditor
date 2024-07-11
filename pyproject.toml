@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "llm-auditor"
+version = "0.1.0"
+description = ""
+authors = ["yongkangchia <yong.kangchia@smartcontract.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+jupyter = "^1.0.0"
+numpy = "^2.0.0"
+openpyxl = "^3.1.5"
+openai = "^1.35.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
