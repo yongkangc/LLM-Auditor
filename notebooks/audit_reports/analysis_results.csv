@@ -1,0 +1,5 @@
+Model,Prompt,Success,Failure,Success Rate (%)
+GPT4O,basic,20,0,100.0
+GPT4O,developer_meta,20,0,100.0
+Claude3.5_Sonnet,basic,20,0,100.0
+Claude3.5_Sonnet,developer_meta,20,0,100.0
